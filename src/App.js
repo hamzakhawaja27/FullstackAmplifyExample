@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dont Learn React. Checing if branch Auto detection works. 
+          Dont Learn React. Checking if branch Auto detection works. 
         </a>
       </header>
     </div>
